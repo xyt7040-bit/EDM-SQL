@@ -1,0 +1,3 @@
+# Keep archived predictions byte-identical for SHA-256 verification.
+results/spider-dev/predict.txt -text
+results/bird-dev/predict_dev.json -text
